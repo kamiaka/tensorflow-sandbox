@@ -54,10 +54,7 @@ function gatherFaces() {
 }
 
 function run() {
-  var_dump(getSearchConfig());
-  var_dump(getSearchConfig());
-  var_dump(getSearchConfig());
-//  gatherFaces();
+  gatherFaces();
 }
 
 run();
