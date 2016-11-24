@@ -1,0 +1,6 @@
+<?php
+
+return [
+  'searchID' => 'your id',
+  'apiKey' => 'your api key',
+];
